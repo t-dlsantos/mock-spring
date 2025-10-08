@@ -1,9 +1,8 @@
 package br.com.valueprojects.mock_spring.services;
 
 import br.com.valueprojects.mock_spring.model.TipoMensagem;
-import infra.JogoDao;
-import infra.MessageSMS;
-import infra.MessageWPP;
+import br.com.valueprojects.mock_spring.infra.MessageSMS;
+import br.com.valueprojects.mock_spring.infra.MessageWPP;
 import org.springframework.stereotype.Service;
 
 @Service

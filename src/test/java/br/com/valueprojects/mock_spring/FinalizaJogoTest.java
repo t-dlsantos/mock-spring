@@ -15,13 +15,12 @@ import java.util.Calendar;
 import java.util.List;
 
 import br.com.valueprojects.mock_spring.model.Participante;
-import org.apache.tomcat.util.modeler.ParameterInfo;
 import org.junit.jupiter.api.Test;
 
 import br.com.valueprojects.mock_spring.builder.CriadorDeJogo;
 import br.com.valueprojects.mock_spring.model.FinalizaJogo;
 import br.com.valueprojects.mock_spring.model.Jogo;
-import infra.JogoDao;
+import br.com.valueprojects.mock_spring.infra.JogoDao;
 
 
 

@@ -3,7 +3,7 @@ package br.com.valueprojects.mock_spring.model;
 import java.util.Calendar;
 import java.util.List;
 
-import infra.JogoDao;
+import br.com.valueprojects.mock_spring.infra.JogoDao;
 
 
 
